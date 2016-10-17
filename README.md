@@ -1,11 +1,11 @@
-# Microsoft-Interview-Questions
+﻿# Microsoft-Interview-Questions
 My answers (algorithms, examples on Java &amp; C++)
 
-13	Calculates sub-array with largest sum in array with positive and negative integers
-14	Finds duplicates in array with numbers 1..N
-15	Routine to draw a circle. We need to see a circle as results of your program
-16	Write a routine that prints out an unsigned long in decimal. No array allowed.
-17	Checks if number is a power of 2
+13	Calculates sub-array with largest sum in array with positive and negative integers 
+14	Finds duplicates in array with numbers 1..N 
+15	Routine to draw a circle. We need to see a circle as results of your program 
+16	Write a routine that prints out an unsigned long in decimal. No array allowed. 
+17	Checks if number is a power of 2 
 18	Reverse the order of the words in a string. For example: “Hello world!” -> “olleH dlrow!”
 19	Count the number of ones (1) in a 32 bit number
 20	Reverse linked list
