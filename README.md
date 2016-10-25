@@ -1,4 +1,4 @@
-﻿# Microsoft-Interview-Questions
+﻿# Potential-Microsoft-Interview-Questions
 ﻿My answers (algorithms, examples on Java &amp; C++)
 
 
