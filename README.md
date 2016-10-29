@@ -2,6 +2,9 @@
 ﻿My answers (algorithms, examples on Java &amp; C++)
 
 
+1	Given a string. Shuffle a chars in all possible combinations.
+
+2	Given an array of characters.  How would you reverse it without using indexing in the array.
 
 13	Calculates sub-array with largest sum in array with positive and negative integers
 
