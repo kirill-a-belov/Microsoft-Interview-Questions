@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    //Algorithm complexity - O(n**k)
+    //Algorithm complexity - O(n**n)
     static void permutation(char[] c, char[] set, int i){
         if (i<c.length){
             for (int j = 0; j < set.length; j++) {
