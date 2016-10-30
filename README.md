@@ -6,6 +6,8 @@
 
 2	Given an array of characters.  How would you reverse it without using indexing in the array.
 
+3	Given a string. Shuffle a chars in all possible combinations. Chars may be repeated!
+
 13	Calculates sub-array with largest sum in array with positive and negative integers
 
 14	Finds duplicates in array with numbers 1..N 
